@@ -12,4 +12,4 @@ for cog in os.listdir("./cogs"):
     if cog.endswith(".py"):
         client.load_extension(f"cogs.{cog[:-3]}")
         print(cog)
-client.run("ODY4NDk3OTg1NDcyOTcwNzYz.YPwhxw.ruy1Y1583jH2QiHXWMmeU-A_0ss")
+client.run("token")
