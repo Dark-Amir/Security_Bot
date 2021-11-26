@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Alt_Account_Client 👋</h1>
+<h1 align="center">Welcome to Security_Bot 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/pyhton-3.9.7-blue" />
